@@ -201,7 +201,12 @@ footer {
     section{}
     div{}
     .inner grid{}
-    .project{}
+    .project{
+        margin:auto;
+        float: none;
+        display: block;
+        width: 300px;
+    }
     .project img{}
     .project h2{}
     button{}
@@ -221,7 +226,12 @@ footer {
     section{}
     div{}
     .inner grid{}
-    .project{}
+    .project{
+        margin:auto;
+        float: none;
+        display: block;
+        width: 300px;
+    }
     .project img{}
     .project h2{}
     button{}
